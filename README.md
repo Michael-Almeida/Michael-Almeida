@@ -23,6 +23,7 @@
 <img height='40px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img height='40px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  height='40px' width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height='40px' width='40px' src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 </div>
 
 <br/>
