@@ -32,8 +32,8 @@
 <br/>
 
 <div class="marcadores">
-       <img height='170em' src='https://github-readme-stats.vercel.app/api?username=Michael-Almeida&theme=chartreuse-dark&show_icons=true&bg_color=00000000' />
-       <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-ALmeida&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true&bg_color=00000000'
+       <img height='170em' src='https://github-readme-stats.vercel.app/api?username=Michael-Almeida&theme=chartreuse-dark&show_icons=true&' />
+       <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-ALmeida&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true&'
        
 </div>
 <br />
