@@ -14,7 +14,7 @@
 
 <div dir="auto">
 <h2> Ferramentas e Tecnologias</h2>
-  <h6>*Em aprendizado</h6>
+  <h6>*Aprendendo</h6>
 <img height='40px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height='40px' width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img height='40px' width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -32,10 +32,9 @@
 <br/>
 
 <div class="marcadores">
-       <img height='170em' 
-       src='https://github-readme-stats.vercel.app/api?username=Michael-Almeida&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true' />
-       <img height='170em' 
-       src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Almeida&layout=compact&langs_count=7&theme=chartreuse-dark' <br />
+       <img height='170em' src='https://github-readme-stats.vercel.app/api?username=Michael-Almeida&theme=chartreuse-dark&show_icons=true&bg_color=00000000' />
+       <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-ALmeida&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true&bg_color=00000000'
+       
 </div>
 <br />
 
