@@ -5,10 +5,10 @@
 <section class="sobre">
 <h2>Sobre mim</h2>
 <li>🏠 Atualmente resido em Porto Alegre/RS</li>
-<li>🔭 Atualmente trabalhando na Fundatec</li>
-<li>📚 Atualmente cursando Desenvolvimento de software Full Stack</li>
-<li>🌱 Aprimorando o Inglês constantemente</li>
-<!-- <li> 📫 Pode me encontrar pelo e-mail: <a href="mailto: michaelcardoso97@gmail.com"> michaelcardoso97@gmail.com </li> -->
+<li>👨‍💻 Desenvolvedor Node.Js em Fundatec </li>
+<li>🔭 Constantementemente em busca de novos conhecimentos e tecnologias>/li> 
+<li>👨‍🎓 Formado em Desenvolvimento de software Full Stack desde 2022</li>   
+<li> 📫 Contato: <a href="mailto: michaelcardoso97@gmail.com"> michaelcardoso97@gmail.com </li> 
 </section>
 
   <div dir="linguagens_tecnologias">
@@ -55,10 +55,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
         <img src="https://img.icons8.com/clouds/100/000000/instagram.png"
           alt="instagram"/>
    </a>
-  <a href="mailto: michaelcardoso97@gmail.com">
+<!--   <a href="mailto: michaelcardoso97@gmail.com">
     <img src="https://img.icons8.com/clouds/100/000000/new-post.png" alt="email"/>
-  </a>
-  <a href="https://www.facebook.com/michael.cardoso.31">
+  </a> -->
+<!--   <a href="https://www.facebook.com/michael.cardoso.31">
     <img src="https://img.icons8.com/clouds/100/000000/facebook-circled.png" alt="facebook"/>
-  </a>
+  </a> -->
     </nav>
