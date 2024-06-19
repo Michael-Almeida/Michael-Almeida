@@ -6,8 +6,8 @@
 <h2>Sobre mim</h2>
 <li>🏠 Atualmente resido em Porto Alegre/RS</li>
 <li>👨‍💻 Desenvolvedor Node.Js em Fundatec </li>
-<li>🔭 Constantementemente em busca de novos conhecimentos e tecnologias>/li> 
-<li>👨‍🎓 Formado em Desenvolvimento de software Full Stack desde 2022</li>   
+<li>🔭 Constantementemente em busca de novos conhecimentos e tecnologias </li> 
+<li>👨‍🎓 Formação no curso técnico em informática com foco em Desenvolvimento de software Full Stack desde 2022</li>   
 <li> 📫 Contato: <a href="mailto: michaelcardoso97@gmail.com"> michaelcardoso97@gmail.com </li> 
 </section>
 
@@ -30,6 +30,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img height="40px" width="50px" alt="github"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="40px" width="40px" alt="React" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
 <!--
  <img height='40px' width="50px" alt='Java' 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
