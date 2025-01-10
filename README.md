@@ -1,5 +1,4 @@
-# Bem-vindo ao meu perfil GitHub 👋
-
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=blue&width=600&lines=Hey%2C+Seja+bem-vindo+ao+meu+repositório!+%F0%9F%91%8B;Eu+sou+Michael+Almeida%2C+dev+full+stack.;Explore+meus+projetos+e+conheça+meu+trabalho!;)
 
 #### 🚀 **Dev Back-End Júnior** | 💡**Entusiasta de JavaScript** | 🎓  **Estudante de Sistemas da Informação** 
 <br/>
